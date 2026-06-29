@@ -2,6 +2,10 @@
 
 식단표 정보를 macOS 메뉴바에서 바로 확인하는 위젯입니다.
 
+## 화면
+
+![Babbar 메뉴바 식단표 예시](assets/screenshot.jpeg)
+
 ## 요구 사항
 
 - macOS 26 이상
