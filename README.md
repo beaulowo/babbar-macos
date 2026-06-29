@@ -4,7 +4,8 @@
 
 ## 요구 사항
 
-- macOS 26 이상, Apple Silicon Mac
+- macOS 26 이상
+- Apple Silicon
 
 ## 설치
 
