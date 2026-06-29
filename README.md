@@ -4,19 +4,11 @@ UNIST 학식 정보를 macOS 메뉴바에서 바로 확인하는 위젯입니다
 
 ## 요구 사항
 
-- macOS 15 이상
-- Apple Silicon Mac
-- 인터넷 연결
+- macOS 15 이상, Apple Silicon Mac
 
 ## 설치
 
-1. Releases에서 최신 `Babbar-*-macos15.dmg`를 다운로드합니다.
-2. DMG를 엽니다.
-3. `Babbar.app`을 `Applications` 폴더로 드래그합니다.
-4. `Applications` 폴더에서 앱을 실행합니다.
-
-개발자 ID로 notarize된 앱이 아니므로 첫 실행 시 macOS 보안 경고가 뜰 수 있습니다.
-이 경우 Finder에서 앱을 Control-클릭한 뒤 `열기`를 선택합니다.
+[Releases](https://github.com/beaulowo/babbar-macos/releases/latest)에서 DMG를 받은 뒤 `Babbar.app`을 `Applications`로 드래그하세요. 첫 실행이 막히면 Control-클릭 후 `열기`를 누르면 됩니다.
 
 ## 사용
 
@@ -27,4 +19,4 @@ UNIST 학식 정보를 macOS 메뉴바에서 바로 확인하는 위젯입니다
 
 ## 라이선스
 
-이 배포판은 GPL-2.0 라이선스를 따릅니다. 대응 소스 코드는 배포자에게 요청할 수 있습니다.
+GPL-2.0
