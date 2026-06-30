@@ -13,7 +13,7 @@
 
 ## 설치
 
-[Releases](https://github.com/beaulowo/babbar-macos/releases/latest)에서 DMG를 받은 뒤 `Babbar.app`을 `Applications`로 드래그하세요. "‘Babbar.app’을(를) 열지 않음" 팝업이 뜨면 설정 - 개인정보 및 보안 - 그래도 열기 클릭
+[Releases](https://github.com/beaulowo/babbar-macos/releases/latest)에서 dmg 파일을 받은 뒤 `Babbar.app`을 `Applications`로 드래그하세요. "‘Babbar.app’을(를) 열지 않음" 팝업이 뜨면 설정 - 개인정보 및 보안 - 그래도 열기 클릭
 
 ## 사용
 
