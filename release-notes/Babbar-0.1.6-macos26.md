@@ -1,0 +1,1 @@
+- Move update feed to GitHub Pages
