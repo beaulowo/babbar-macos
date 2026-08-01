@@ -1,0 +1,1 @@
+- Check for Babbar updates automatically at launch
