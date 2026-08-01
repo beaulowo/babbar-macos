@@ -3,15 +3,15 @@
     <channel>
         <title>Babbar</title>
         <item>
-            <title>0.1.7</title>
-            <pubDate>Sun, 02 Aug 2026 03:55:37 +0900</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <title>0.1.8</title>
+            <pubDate>Sun, 02 Aug 2026 04:04:40 +0900</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Refresh meals when Babbar starts and remove stale program labels
+            <description sparkle:format="markdown"><![CDATA[- Check for Babbar updates automatically at launch
 ]]></description>
-            <enclosure url="https://github.com/beaulowo/Babbar/releases/download/v0.1.7/Babbar-0.1.7-macos26.dmg" length="1432946" type="application/octet-stream" sparkle:edSignature="jvI8CSjAeR0stN5BKnXrLyN+te+9Wx7SfhwJuQmcGZKu+nCjGVed+bbbSC+TmbNxzlQcN8i57ojwgpkVCYYhDA=="/>
+            <enclosure url="https://github.com/beaulowo/Babbar/releases/download/v0.1.8/Babbar-0.1.8-macos26.dmg" length="1437803" type="application/octet-stream" sparkle:edSignature="NWTJW/ldvwUcGP3P9cJK7Va9zrAJ2vSIN4IOHq+OZRTPBOWLIi812lmaqwNiERGn3ouIG/ZgSdW/3weS/ummBQ=="/>
         </item>
     </channel>
 </rss>
